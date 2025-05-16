@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/upload-artifact@v3      # ← ここで回避
+      - uses: actions/upload-artifact@v2       # ← ここだけv2にする！
       - uses: actions/setup-node@v3
         with:
           node-version: 18
@@ -31,4 +31,3 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/deploy-pages@v1
-
