@@ -4,7 +4,7 @@ tags:
   - ツェッテルカステン
 title: Obsidian
 created: 2025-03-28T14:34
-updated: 2025-05-17T01:35
+updated: 2025-05-17T01:38
 layout: single
 ---
 ツェッテルカステルやPKMを行うための具体的なツール
@@ -21,8 +21,6 @@ markdownなのでアプリ依存が少ないけどプラグインを入れると
 ```obsidain
 ![[Obsidian#プラグイン]]
 ```
-
- > 詳細は [Obsidianの「プラグイン」セクション]({{ "/notes/Obsidian#プラグイン" | relative_url }}) を参照してください
 
 
 
