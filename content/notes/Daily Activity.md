@@ -3,7 +3,7 @@ tags:
   - obsidian
   - プラグイン
 created: 2025-03-28T20:18
-updated: 2025-05-16T23:42
+updated: 2025-05-17T01:35
 ---
 [GitHub - trydalch/obsidian-daily-activity](https://github.com/trydalch/obsidian-daily-activity)
 

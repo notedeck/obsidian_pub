@@ -4,7 +4,7 @@ tags:
   - ツェッテルカステン
 title: Obsidian
 created: 2025-03-28T14:34
-updated: 2025-05-16T23:42
+updated: 2025-05-17T01:35
 layout: single
 ---
 ツェッテルカステルやPKMを行うための具体的なツール

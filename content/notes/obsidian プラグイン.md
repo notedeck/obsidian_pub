@@ -3,7 +3,7 @@ tags:
   - obsidian
   - プラグイン
 created: 2025-03-27T14:21
-updated: 2025-05-16T23:42
+updated: 2025-05-17T01:35
 ---
 Twitterやyoutubeを挿入する
 画像と同じようにすればOK
