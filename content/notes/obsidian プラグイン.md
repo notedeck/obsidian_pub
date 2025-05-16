@@ -3,10 +3,12 @@ tags:
   - obsidian
   - プラグイン
 created: 2025-03-27T14:21
-updated: 2025-05-17T01:35
+updated: 2025-05-17T03:42
 ---
 Twitterやyoutubeを挿入する
 画像と同じようにすればOK
+obsidian限定
+Quartzでは表示もされない
 ```
 ![](https://x.com/karzusp/status/1905129842947047832)
 ```
