@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "CREATE TEBLE AS SELECT文",
-      "path": "content/oracle/CREATE TEBLE AS SELECT文.md"
-    },
-    {
       "basename": "集合演算",
       "path": "content/oracle/集合演算.md"
+    },
+    {
+      "basename": "変換関数",
+      "path": "content/oracle/変換関数.md"
+    },
+    {
+      "basename": "INSERT文",
+      "path": "content/oracle/INSERT文.md"
+    },
+    {
+      "basename": "CREATE INDEX文",
+      "path": "content/oracle/CREATE INDEX文.md"
+    },
+    {
+      "basename": "CREATE TEBLE AS SELECT文",
+      "path": "content/oracle/CREATE TEBLE AS SELECT文.md"
     },
     {
       "basename": "Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう",
