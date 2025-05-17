@@ -1,7 +1,7 @@
 ---
 layout: home
 created: 2025-05-16T21:35
-updated: 2025-05-17T17:16
+updated: 2025-05-17T19:21
 title: Notedeckへようこそ
 ---
 
@@ -26,4 +26,6 @@ title: Notedeckへようこそ
 
 
 [[Obsidian]]
+
+[oracle](/oracle/) 
 
