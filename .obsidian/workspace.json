@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -187,13 +188,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4daa0eff4270b7d4",
+  "active": "2ee1f5a74db8ebc4",
   "lastOpenFiles": [
-    "content/oracle/変換関数.md",
-    "content/oracle/INSERT文.md",
+    "docs/features/Mermaid diagrams.md",
+    "docs/features/Latex.md",
+    "docs/features/Citations.md",
+    "docs/features/callouts.md",
+    "content/oracle/CREATE TEBLE文.md",
+    "content/notes/jekllyの導入.md",
+    "content/notes/ankiでフィルターデッキを作成する.md",
+    "content/notes/gitのバージョンを戻す.md",
+    "content/notes/obsidian プラグイン.md",
+    "content/notes/obsidian プラグインの有効化に失敗.md",
+    "content/notes/Obsidianリンク埋め込み.md",
+    "content/notes/Obsidian.md",
+    "content/notes/icloudの同期に耐えられず公開するためのvaultを作成した.md",
+    "content/notes/Obsidian画像保存場所.md",
+    "content/notes/baseURLを設定したい.md",
+    "content/oracle/集合演算.md",
     "content/oracle/CREATE INDEX文.md",
     "content/oracle/CREATE TEBLE AS SELECT文.md",
-    "content/oracle/集合演算.md",
+    "content/oracle/INSERT文.md",
+    "content/oracle/oracle.md",
+    "content/oracle/シノニム.md",
+    "content/oracle/変換関数.md",
+    "content/oracle/タイムゾーンまとめ.md",
     "content/notes/Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう.md",
     "テスト.md",
     "content/index.md"

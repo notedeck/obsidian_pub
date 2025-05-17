@@ -5,12 +5,64 @@
       "path": "content/oracle/集合演算.md"
     },
     {
-      "basename": "変換関数",
-      "path": "content/oracle/変換関数.md"
+      "basename": "Mermaid diagrams",
+      "path": "docs/features/Mermaid diagrams.md"
     },
     {
-      "basename": "INSERT文",
-      "path": "content/oracle/INSERT文.md"
+      "basename": "Latex",
+      "path": "docs/features/Latex.md"
+    },
+    {
+      "basename": "Citations",
+      "path": "docs/features/Citations.md"
+    },
+    {
+      "basename": "callouts",
+      "path": "docs/features/callouts.md"
+    },
+    {
+      "basename": "CREATE TEBLE文",
+      "path": "content/oracle/CREATE TEBLE文.md"
+    },
+    {
+      "basename": "jekllyの導入",
+      "path": "content/notes/jekllyの導入.md"
+    },
+    {
+      "basename": "ankiでフィルターデッキを作成する",
+      "path": "content/notes/ankiでフィルターデッキを作成する.md"
+    },
+    {
+      "basename": "gitのバージョンを戻す",
+      "path": "content/notes/gitのバージョンを戻す.md"
+    },
+    {
+      "basename": "obsidian プラグイン",
+      "path": "content/notes/obsidian プラグイン.md"
+    },
+    {
+      "basename": "obsidian プラグインの有効化に失敗",
+      "path": "content/notes/obsidian プラグインの有効化に失敗.md"
+    },
+    {
+      "basename": "Obsidianリンク埋め込み",
+      "path": "content/notes/Obsidianリンク埋め込み.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "content/notes/Obsidian.md"
+    },
+    {
+      "basename": "icloudの同期に耐えられず公開するためのvaultを作成した",
+      "path": "content/notes/icloudの同期に耐えられず公開するためのvaultを作成した.md"
+    },
+    {
+      "basename": "Obsidian画像保存場所",
+      "path": "content/notes/Obsidian画像保存場所.md"
+    },
+    {
+      "basename": "baseURLを設定したい",
+      "path": "content/notes/baseURLを設定したい.md"
     },
     {
       "basename": "CREATE INDEX文",
@@ -19,6 +71,26 @@
     {
       "basename": "CREATE TEBLE AS SELECT文",
       "path": "content/oracle/CREATE TEBLE AS SELECT文.md"
+    },
+    {
+      "basename": "INSERT文",
+      "path": "content/oracle/INSERT文.md"
+    },
+    {
+      "basename": "oracle",
+      "path": "content/oracle/oracle.md"
+    },
+    {
+      "basename": "シノニム",
+      "path": "content/oracle/シノニム.md"
+    },
+    {
+      "basename": "変換関数",
+      "path": "content/oracle/変換関数.md"
+    },
+    {
+      "basename": "タイムゾーンまとめ",
+      "path": "content/oracle/タイムゾーンまとめ.md"
     },
     {
       "basename": "Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう",
