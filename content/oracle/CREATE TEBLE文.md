@@ -2,7 +2,7 @@
 tags:
   - oracle
 created: 2025-05-15T20:39
-updated: 2025-05-17T20:12
+updated: 2025-05-17T21:07
 ---
 ## 構文
 ```
@@ -58,6 +58,9 @@ CREATE TABLE employees (
 * 条件の評価に使われる列が **NULL** の場合、CHECK制約は *違反にならない*
 * UPPERなどの決定論的関数は使用可能
 決定論的関数とは、同じ入力を与えれば常に同じ出力を返す関数
+
+[deterministic functionってなんだ。 #小川メソッド - Qiita](https://qiita.com/kaizen_nagoya/items/c48dc77397be6b6ed683)
+
 
 ### その他のポイント
 
