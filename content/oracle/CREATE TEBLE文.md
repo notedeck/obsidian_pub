@@ -2,7 +2,7 @@
 tags:
   - oracle
 created: 2025-05-15T20:39
-updated: 2025-05-17T19:42
+updated: 2025-05-17T20:12
 ---
 ## 構文
 ```
