@@ -37,15 +37,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
     Component.RecentNotes({
     title: "🆕 最近の更新",
     limit: 5,
     showTags: false,
     linkToMore: false,
   }),
+    Component.Graph(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks()
   ],
 }
 
