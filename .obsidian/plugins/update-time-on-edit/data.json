@@ -7,5 +7,7 @@
   "ignoreGlobalFolder": [],
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": true,
-  "fileHashMap": {}
+  "fileHashMap": {
+    "content/oracle/集合演算.md": "0e362455c956c38fb47f2a699eeb9cc6d6f08879e4ea460779af883bec41bee2"
+  }
 }
