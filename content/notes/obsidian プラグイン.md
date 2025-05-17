@@ -3,7 +3,7 @@ tags:
   - obsidian
   - プラグイン
 created: 2025-03-27T14:21
-updated: 2025-05-17T17:56
+updated: 2025-05-17T18:00
 ---
 Twitterやyoutubeを挿入する
 
@@ -25,7 +25,8 @@ Quartzでは表示もされない
 
 作成したノートのリンクを挿入できる
 
-[[Key-Value List]]
+## [[Key-Value List]]
+
 キーバリューで表になる
 
 Markdownではないので最低限の仕事をする程度
