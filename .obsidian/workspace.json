@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -187,9 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a422331fe4f7d9ca",
+  "active": "4daa0eff4270b7d4",
   "lastOpenFiles": [
-    "content/index.md",
-    "テスト.md"
+    "テスト.md",
+    "content/notes/Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう.md",
+    "content/index.md"
   ]
 }

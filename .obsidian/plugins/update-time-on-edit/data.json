@@ -7,7 +7,5 @@
   "ignoreGlobalFolder": [],
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": true,
-  "fileHashMap": {
-    "テスト.md": "123dbebdbeec0b691155c824fa28cbb5069b01b27b4299d5d5b1b7e4f22fd4cd"
-  }
+  "fileHashMap": {}
 }
