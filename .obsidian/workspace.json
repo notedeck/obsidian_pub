@@ -11,10 +11,14 @@
             "id": "4daa0eff4270b7d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "index"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#小川メソッド",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "indexのアウトライン"
             }
           },
           {
@@ -155,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -172,6 +178,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4daa0eff4270b7d4",
-  "lastOpenFiles": []
+  "active": "2ee1f5a74db8ebc4",
+  "lastOpenFiles": [
+    "テスト.md"
+  ]
 }

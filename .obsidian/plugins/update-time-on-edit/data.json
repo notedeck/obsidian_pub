@@ -1,0 +1,13 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": true,
+  "fileHashMap": {
+    "テスト.md": "123dbebdbeec0b691155c824fa28cbb5069b01b27b4299d5d5b1b7e4f22fd4cd"
+  }
+}
