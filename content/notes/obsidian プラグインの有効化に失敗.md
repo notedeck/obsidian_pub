@@ -1,8 +1,10 @@
 ---
 created: 2025-03-27T16:12
-updated: 2025-05-17T01:35
+updated: 2025-05-17T12:45
+tags:
+  - obsidian
 ---
-#obsidian  #問題解決 
+ #問題解決 
 
 
 `obsidian-simple-embeds` を使おうとして「有効化に失敗しました」と表示される場合、いくつかの原因が考えられます。

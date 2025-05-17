@@ -3,7 +3,7 @@ tags:
   - obsidian
   - プラグイン
 created: 2025-03-27T14:21
-updated: 2025-05-17T12:09
+updated: 2025-05-17T12:45
 ---
 Twitterやyoutubeを挿入する
 
@@ -25,7 +25,7 @@ Quartzでは表示もされない
 
 [[Key-Value List]]
 
-[[Clear Unused Image]]
+
 
 ショートカット
 
@@ -40,7 +40,7 @@ command+control+f
 
 * open new in tab
 * local image plus
-* clear unused image
+* [[Clear Unused Image]]
 * auto card link
 command+control+v
 

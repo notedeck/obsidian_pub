@@ -1,6 +1,6 @@
 ---
 created: 2025-05-12T19:34
-updated: 2025-05-17T12:43
+updated: 2025-05-17T12:44
 tags:
   - obsidian
 ---
@@ -14,4 +14,6 @@ AIがそのまま使えるということで流行った
 
 
 執筆のためにやることであって知的なためにはやる必要は考えた方がいい
+
+[Pocket - CursorとObsidianは理想の組み合わせではなかった｜Mekann](https://getpocket.com/ja/read/32cpdT62A2ao6h4975g67f2bprd1A84921cOf8v780J81aZ8c49a3I74cbTaT556_8f46f1aebd6f76297ddbf628f584d9a9)
 
