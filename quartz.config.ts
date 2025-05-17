@@ -1,6 +1,8 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
+
+
 /**
  * Quartz 4 Configuration
  *
@@ -52,11 +54,6 @@ const config: QuartzConfig = {
         },
       },
     },
-  },
-    sortFn: (a, b) => {
-    const dateA = new Date(a.dates.modified ?? a.dates.created)
-    const dateB = new Date(b.dates.modified ?? b.dates.created)
-    return dateB.getTime() - dateA.getTime()
   },
   plugins: {
     transformers: [
