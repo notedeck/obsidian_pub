@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/notes/Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#小川メソッド",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,9 +73,18 @@
               "icon": "lucide-bookmark",
               "title": "ブックマーク"
             }
+          },
+          {
+            "id": "49e31d3eb1f2ba9d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/notes/Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "Obisidian-現在のファイルがエクスプローラで勝手に開いてしまうへのバックリンク"
             }
           },
           {
@@ -113,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/notes/Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "Obisidian-現在のファイルがエクスプローラで勝手に開いてしまうからのアウトゴーイングリンク"
             }
           },
           {
@@ -141,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md",
+                "file": "content/notes/Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "indexのアウトライン"
+              "title": "Obisidian-現在のファイルがエクスプローラで勝手に開いてしまうのアウトライン"
             }
           },
           {
@@ -161,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -171,15 +182,14 @@
     "hiddenItems": {
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
-      "canvas:新規キャンバスを作成": false,
-      "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ee1f5a74db8ebc4",
+  "active": "a422331fe4f7d9ca",
   "lastOpenFiles": [
+    "content/index.md",
     "テスト.md"
   ]
 }
