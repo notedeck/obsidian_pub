@@ -3,7 +3,7 @@ tags:
   - obsidian
   - プラグイン
 created: 2025-03-27T14:21
-updated: 2025-05-17T03:44
+updated: 2025-05-17T12:08
 ---
 Twitterやyoutubeを挿入する
 
@@ -30,15 +30,27 @@ Quartzでは表示もされない
 ショートカット
 
 ### auto card link
-command+control+v
+
 
 ## Omnisearch
 
 command+control+f
 
-## 上位リンク
-[[Obsidian]]
+## 使わなくなったプラグイン
 
+* open new in tab
+* local image plus
+* clear unused image
+* auto card link
+command+control+v
+
+リンクから画像を取得して表示してくれるやつ
+
+markdownではなくなるから汎用性が減る
+
+markdownにこだわるならAuto Link Title
+
+URLを貼り付けると自動でmarkdown形式にしてくr
 
 
 
