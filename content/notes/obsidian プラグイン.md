@@ -3,7 +3,7 @@ tags:
   - obsidian
   - プラグイン
 created: 2025-03-27T14:21
-updated: 2025-05-17T12:08
+updated: 2025-05-17T12:09
 ---
 Twitterやyoutubeを挿入する
 
@@ -50,7 +50,7 @@ markdownではなくなるから汎用性が減る
 
 markdownにこだわるならAuto Link Title
 
-URLを貼り付けると自動でmarkdown形式にしてくr
+URLを貼り付けると自動でmarkdown形式にしてくれる。タイトルも自動で取得するので便利。インストールのみでOK
 
 
 
