@@ -3,7 +3,7 @@ tags:
   - obsidian
   - プラグイン
 created: 2025-03-27T14:21
-updated: 2025-05-17T12:45
+updated: 2025-05-17T17:56
 ---
 Twitterやyoutubeを挿入する
 
@@ -21,10 +21,16 @@ Quartzでは表示もされない
 ![](https://x.com/karzusp/status/1905129842947047832)
 
 
-[[Daily Activity]]
+## [[Daily Activity]]
+
+作成したノートのリンクを挿入できる
 
 [[Key-Value List]]
+キーバリューで表になる
 
+Markdownではないので最低限の仕事をする程度
+
+あんまり使ってない
 
 
 ショートカット
