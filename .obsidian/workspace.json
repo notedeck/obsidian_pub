@@ -189,6 +189,7 @@
   },
   "active": "4daa0eff4270b7d4",
   "lastOpenFiles": [
+    "content/notes/ankiのデッキを分ける意味.md",
     "content/notes/Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう.md",
     "content/oracle/試したいこと.md",
     "content/oracle/オブジェクト権限を列単位で指定できるのは.md",
@@ -215,7 +216,6 @@
     "content/notes/icloudの同期に耐えられず公開するためのvaultを作成した.md",
     "content/notes/Obsidian画像保存場所.md",
     "content/notes/baseURLを設定したい.md",
-    "content/oracle/CREATE INDEX文.md",
-    "content/oracle/CREATE TEBLE AS SELECT文.md"
+    "content/oracle/CREATE INDEX文.md"
   ]
 }
