@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ee1f5a74db8ebc4",
+  "active": "a422331fe4f7d9ca",
   "lastOpenFiles": [
     "docs/features/Mermaid diagrams.md",
     "docs/features/Latex.md",
