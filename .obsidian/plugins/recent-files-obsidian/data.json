@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CREATE TEBLE文",
+      "path": "content/oracle/CREATE TEBLE文.md"
+    },
+    {
       "basename": "Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう",
       "path": "content/notes/Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "callouts",
       "path": "docs/features/callouts.md"
-    },
-    {
-      "basename": "CREATE TEBLE文",
-      "path": "content/oracle/CREATE TEBLE文.md"
     },
     {
       "basename": "jekllyの導入",

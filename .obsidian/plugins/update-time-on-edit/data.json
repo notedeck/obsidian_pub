@@ -13,6 +13,14 @@
     "content/notes/Obsidianリンク埋め込み.md": "a4e8c81da11e87ad9cf3ce37103a8a5af39a210c82f38f53c86da9ecc68241c6",
     "content/notes/Obsidian.md": "9c9918c1d494ff776dd5f64c0b5fc30d7083aeb1b8180b3a447ae7eb92c7b7e9",
     "content/oracle/CREATE TEBLE文.md": "27f319f9f79f858d0ac4c6078cfac32834df8bc6a790ae8cff8ed300d5904e2a",
-    "content/notes/Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう.md": "5d862888efe91fd47ad1dedcb417eacb9c8b58e3c890bc5e1343f8d33d7fc1c8"
+    "content/notes/Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう.md": "5d862888efe91fd47ad1dedcb417eacb9c8b58e3c890bc5e1343f8d33d7fc1c8",
+    "content/oracle/ロール.md": "50909373d331f418b5f6b9bfdc3e25470ee3864987bda7ad79846982a4436a1f",
+    "content/oracle/trancate vs drop table文.md": "b58d50aecf4f27c164eef87afb1c5ac1e550809f44f084776ac34b59f4a48cb6",
+    "content/oracle/ALTER TABLE文.md": "5a86731cb6959b6b082bbf8da855e2ffb23404630a4e66647a6350c1e8b90011",
+    "content/oracle/データディクショナリビュー.md": "55fd8f667789ebb8f661b2f9d987865264026d48d178f4f3f7906b00a0ea1933",
+    "content/oracle/INSERT文.md": "1d418e42ff92f3f5fe40d454177c93bb8f43151b712703f69185b9185a7a473a",
+    "content/oracle/oracle独自の外部結合には自然結合と完全外部結合がない.md": "3922dcdc68c49b0b1e770b342cd3501f8a2ac3247fd7531f060d4d3a2195c56f",
+    "content/oracle/オブジェクト権限を列単位で指定できるのは.md": "8cb38a54c937bb4c33e254b9393dcde0190dafd1af7d01288a64fe3d71c19824",
+    "content/oracle/試したいこと.md": "5f63aaec917393ca20bf2736672216b078b8df1a773dc60e792446eb8fe6a2da"
   }
 }
