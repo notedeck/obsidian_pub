@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう",
+      "path": "content/notes/Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう.md"
+    },
+    {
       "basename": "集合演算",
       "path": "content/oracle/集合演算.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "タイムゾーンまとめ",
       "path": "content/oracle/タイムゾーンまとめ.md"
-    },
-    {
-      "basename": "Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう",
-      "path": "content/notes/Obisidian-現在のファイルがエクスプローラで勝手に開いてしまう.md"
     }
   ],
   "omittedPaths": [],
