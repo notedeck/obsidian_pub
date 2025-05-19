@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "タイムゾーンまとめ",
+      "path": "content/oracle/タイムゾーンまとめ.md"
+    },
+    {
+      "basename": "データディクショナリビュー",
+      "path": "content/oracle/データディクショナリビュー.md"
+    },
+    {
+      "basename": "oracle独自の外部結合には自然結合と完全外部結合がない",
+      "path": "content/oracle/oracle独自の外部結合には自然結合と完全外部結合がない.md"
+    },
+    {
+      "basename": "シノニム",
+      "path": "content/oracle/シノニム.md"
+    },
+    {
+      "basename": "オブジェクト権限を列単位で指定できるのは",
+      "path": "content/oracle/オブジェクト権限を列単位で指定できるのは.md"
+    },
+    {
       "basename": "CREATE TEBLE文",
       "path": "content/oracle/CREATE TEBLE文.md"
     },
@@ -85,16 +105,8 @@
       "path": "content/oracle/oracle.md"
     },
     {
-      "basename": "シノニム",
-      "path": "content/oracle/シノニム.md"
-    },
-    {
       "basename": "変換関数",
       "path": "content/oracle/変換関数.md"
-    },
-    {
-      "basename": "タイムゾーンまとめ",
-      "path": "content/oracle/タイムゾーンまとめ.md"
     }
   ],
   "omittedPaths": [],
