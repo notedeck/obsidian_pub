@@ -32,3 +32,8 @@ oracleとは書いていますが他のデータベースでも動作するこ�
 
 ## タイムゾーン
 [[タイムゾーンまとめ]]
+
+
+## oracle silverの対策ブログ
+
+[【Oracle University 講師による ORACLE MASTER Silver SQL 2019 試験トピック解説講座】-トピック一覧-](https://blogs.oracle.com/oraclemaster/post/om-silver-sql-2019-seminar-topics)
