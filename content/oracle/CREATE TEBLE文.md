@@ -51,7 +51,7 @@ CREATE TABLE employees (
 ### DEFAULT句に関する注意点
 - 一部の組み込み関数（SYSDATE、SYSTIMESTAMP、USERなど）は使用可能。
 - 任意のユーザー定義関数は使用できない。
-- CHECK制約と組み合わせる順番は任意。DEFAULTを先に書く必要はない。
+- 制約と同時に使う場合はDEFAELT句が先
 
 ### CHECK制約の注意点
 * 表レベルで指定する場合のみ複数列を使うことができる
