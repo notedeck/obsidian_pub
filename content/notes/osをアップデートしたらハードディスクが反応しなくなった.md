@@ -19,3 +19,4 @@ disk4に指しているハードディスクがあることがわかったので
 ```
  diskutil mountDisk /dev/disk4
 ```
+
