@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "oracle",
+      "path": "content/oracle/oracle.md"
+    },
+    {
       "basename": "データディクショナリビュー",
       "path": "content/oracle/データディクショナリビュー.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "INSERT文",
       "path": "content/oracle/INSERT文.md"
-    },
-    {
-      "basename": "oracle",
-      "path": "content/oracle/oracle.md"
     },
     {
       "basename": "変換関数",

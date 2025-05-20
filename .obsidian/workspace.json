@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/oracle/データディクショナリビュー.md",
+                "file": "content/oracle/oracle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "データディクショナリビュー"
+              "title": "oracle"
             }
           }
         ]
@@ -189,9 +189,9 @@
   },
   "active": "4daa0eff4270b7d4",
   "lastOpenFiles": [
+    "content/oracle/データディクショナリビュー.md",
     "content/oracle/タイムゾーンまとめ.md",
     "content/oracle/試したいこと.md",
-    "content/oracle/データディクショナリビュー.md",
     "content/oracle/oracle独自の外部結合には自然結合と完全外部結合がない.md",
     "content/oracle/シノニム.md",
     "content/oracle/オブジェクト権限を列単位で指定できるのは.md",
