@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "macのスクリーンショットのフローティング時間の変更.md",
+                "file": "content/notes/macのスクリーンショットのフローティング時間の変更.md",
                 "mode": "source",
                 "source": false
               },
@@ -95,8 +95,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           }
         ]
@@ -205,7 +205,7 @@
   "active": "b0d580a3f062e189",
   "lastOpenFiles": [
     "content/oracle/oracle.md",
-    "macのスクリーンショットのフローティング時間の変更.md",
+    "content/notes/macのスクリーンショットのフローティング時間の変更.md",
     "content/oracle/データディクショナリビュー.md",
     "content/oracle/タイムゾーンまとめ.md",
     "content/oracle/試したいこと.md",
