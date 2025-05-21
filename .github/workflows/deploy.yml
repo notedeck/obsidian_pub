@@ -20,6 +20,8 @@ jobs:
           node-version: 20
       - run: npm install -g pnpm
       - run: pnpm install
+      - name: Clean public folder
+        run: rm -rf public/*
       - run: pnpm quartz build
       - uses: actions/upload-pages-artifact@v3
         with:
