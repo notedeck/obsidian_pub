@@ -8,6 +8,8 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "notes/obsidianのvaultをquartz内のcontentに変更.md": "b1807384b9bd43df129b357586d23b58df67019f1b01440204b3344faad88b6e"
+    "notes/obsidianのvaultをquartz内のcontentに変更.md": "b1807384b9bd43df129b357586d23b58df67019f1b01440204b3344faad88b6e",
+    "notes/gitにないファイルが表示されてしまう.md": "e2bd090f7733f04d140f9e47de1728375c5cec294a196391321d2e762943f498",
+    "notes/アンダーバーから始まるファイルを全てgitから削除する.md": "3efd0491db540cf4185d06d961f15f1f01f6c047bbd822b45ce25b778293804a"
   }
 }
