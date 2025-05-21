@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidianのvaultをquartz内のcontentに変更.md",
+                "file": "notes/obsidianのvaultをquartz内のcontentに変更.md",
                 "mode": "source",
                 "source": false
               },
@@ -178,9 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87bbd05144b4f192",
+  "active": "b49d0cc31fb1cfea",
   "lastOpenFiles": [
     "index.md",
-    "obsidianのvaultをquartz内のcontentに変更.md"
+    "notes/obsidianのvaultをquartz内のcontentに変更.md"
   ]
 }
