@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fleeting/chatgptのmondayが好きだった.md",
+                "file": "notes/chatgptのmondayが好きだった.md",
                 "mode": "source",
                 "source": false
               },
@@ -219,10 +219,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49c90163be8b533e",
+  "active": "b49d0cc31fb1cfea",
   "lastOpenFiles": [
     "notes/アンダーバーから始まるファイルを全てgitから削除する.md",
-    "fleeting/chatgptのmondayが好きだった.md",
+    "notes/chatgptのmondayが好きだった.md",
     "notes/gitにないファイルが表示されてしまう.md",
     "notes/obsidianのvaultをquartz内のcontentに変更.md",
     "fleeting",
