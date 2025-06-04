@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fleeting/Kindleのハイライトを消す方法.md",
+                "file": "notes/Kindleのハイライトを消す方法.md",
                 "mode": "source",
                 "source": false
               },
@@ -247,10 +247,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "837ec554caf295e3",
+  "active": "b49d0cc31fb1cfea",
   "lastOpenFiles": [
     "notes/データの流れ.md",
-    "fleeting/Kindleのハイライトを消す方法.md",
+    "notes/Kindleのハイライトを消す方法.md",
     "notes/chatgptのmondayが好きだった.md",
     "notes/アンダーバーから始まるファイルを全てgitから削除する.md",
     "notes/gitにないファイルが表示されてしまう.md",
