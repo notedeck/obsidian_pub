@@ -104,9 +104,37 @@
               "icon": "lucide-file",
               "title": "Kindleのハイライトを消す方法"
             }
+          },
+          {
+            "id": "45389e73b1154a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/azookeyの設定方法(カスタムタブの編集方法).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "azookeyの設定方法(カスタムタブの編集方法)"
+            }
+          },
+          {
+            "id": "40270c329cf3cf2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Eclipseの設定.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eclipseの設定"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -249,8 +277,10 @@
   },
   "active": "b49d0cc31fb1cfea",
   "lastOpenFiles": [
-    "notes/データの流れ.md",
+    "notes/azookeyの設定方法(カスタムタブの編集方法).md",
+    "notes/Eclipseの設定.md",
     "notes/Kindleのハイライトを消す方法.md",
+    "notes/データの流れ.md",
     "notes/chatgptのmondayが好きだった.md",
     "notes/アンダーバーから始まるファイルを全てgitから削除する.md",
     "notes/gitにないファイルが表示されてしまう.md",
