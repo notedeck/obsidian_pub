@@ -1,5 +1,6 @@
 [
   "mermaid-tools",
   "obsidian-git",
-  "update-time-on-edit"
+  "update-time-on-edit",
+  "obsidian-auto-link-title"
 ]
