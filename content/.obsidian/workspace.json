@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/gitの課題2.md",
+                "file": "git/gitの課題について.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gitの課題2"
+              "title": "gitの課題について"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b49d0cc31fb1cfea",
+  "active": "36f680c0ec3c5a38",
   "lastOpenFiles": [
-    "git/gitの課題について.md",
     "git/gitの課題2.md",
+    "git/gitの課題について.md",
     "git",
     "Pasted image 20250702221800.png",
     "Pasted image 20250702221737.png",

@@ -1,6 +1,6 @@
 ---
 created: 2025-07-02T21:28
-updated: 2025-07-02T23:11
+updated: 2025-07-03T07:22
 ---
 ## 目的
 - **開発用リポジトリ（developer）** で機能を作成
@@ -41,7 +41,7 @@ code .
 - README.md に `a` を追加
 - コミット＆プッシュ
 
-```
+```README.md
 # git 
 
 a
@@ -61,17 +61,36 @@ a
 
 ![](https://i.imgur.com/7GqjP7q.png)
 
+#### 詳細
+
+fast-forwardでマージ
+#### 開発者
+```
+git checkout -b a-add
+echo -e "\na" >> README.md
+git add README.md
+git commit -m "aを追加"
+git push origin a-add #リモートリポジトリにa-addブランチを追加
+```
+#### 管理者
+
+```
+git fetch
+git merge --ff a-add
+git push --delete origin a-add
+```
+
 ### パターン2：マージコミットを残す
 
 #### 開発者の操作
 
-- フェッチ
+- フェッチ(prune)
 - `b-add` ブランチ作成
 - README.md に `b` を追加
 - コミット＆プッシュ
 
 
-```
+```README.md
 # git 
 
 a
@@ -91,15 +110,35 @@ b
 
 ![](https://i.imgur.com/V0RCoCH.png)
 
+#### 詳細
+
+non fast-forwardでマージ
+
+```
+git fetch prune
+git checkout -b b-add
+echo "b" >> README.md
+git add README.md
+git commit -m "bを追加"
+git push origin b-add
+```
+
+```
+git fetch
+git merge --no-ff a-add
+git push --delete origin b-add
+```
+
 ### パターン3：複数ファイル追加
 
 #### 開発者の操作
 
+- フェッチ(prune)
 - `add-test.txt` ブランチ作成
 - `test.txt` ファイルに `c` を追加
 - コミット＆プッシュ
 
-```
+```test.txt
 c
 ```
 
@@ -107,7 +146,7 @@ c
 - `test2.txt` ファイルに `c` を追加
 - コミットのみする(プッシュはしない)
 
-```
+```test2.txt
 c
 ```
 
