@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "864c9592e74a24cd",
+        "id": "64d765e824699d83",
         "type": "tabs",
         "children": [
           {
-            "id": "4a14505422a6b51f",
+            "id": "36f680c0ec3c5a38",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "git/gitの課題について.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "gitの課題について"
             }
           }
         ]
@@ -160,6 +164,14 @@
   },
   "active": "b49d0cc31fb1cfea",
   "lastOpenFiles": [
+    "git",
+    "Pasted image 20250702221800.png",
+    "Pasted image 20250702221737.png",
+    "Pasted image 20250702215202.png",
+    "notes/ankiでフィルターデッキを作成する.md",
+    "git/gitの課題について.md",
+    "fleeting/Pasted.md",
+    "Pasted image 20250702214821.png",
     "Java/ディレクティブ宣言.md",
     "fleeting/文章を読むだけだと滑っていってしまう.md",
     "fleeting/doGetとdoPostの違い.md",
